@@ -1,0 +1,13 @@
+# Dataset Files
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
