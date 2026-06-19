@@ -180,20 +180,9 @@ Olist-Ecommerce-Analytics-PowerBI
 
 ![Customer Analytics](dashboard_screenshots/customer_analytics.png)
 
-<<<<<<< HEAD
 ![Product Logistics Analytics](dashboard_screenshots/product_logistics.png)
-```
 
----
 
-## How to Use
-
-1. Download the `.pbix` file from the `powerbi` folder.
-2. Open it using Power BI Desktop.
-3. Explore the dashboard pages.
-4. Use slicers and filters to analyze business performance interactively.
-
----
 
 ## Conclusion
 
@@ -207,4 +196,3 @@ It highlights skills in data modeling, DAX, dashboard design, business analysis,
 ### Product & Logistics Analytics
 ![Product Logistics](dashboard_screenshots/product_logistics.png)
 
->>>>>>> 3863aba72a72c04772e52f018e665da25d70e025
