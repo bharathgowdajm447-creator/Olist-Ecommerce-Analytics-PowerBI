@@ -152,7 +152,6 @@ This dashboard helps business stakeholders:
 
 ## Project Files
 
-```text
 Olist-Ecommerce-Analytics-PowerBI
 │
 ├── dashboard_screenshots
@@ -164,14 +163,12 @@ Olist-Ecommerce-Analytics-PowerBI
 ├── reports
 ├── sql
 └── README.md
-```
 
----
+
 
 =======
 
 # Olist Ecommerce Analytics Dashboard 
-=======
 
 ## Dashboard Preview
 
@@ -187,7 +184,7 @@ Olist-Ecommerce-Analytics-PowerBI
 
 ![Product Logistics](dashboard_screenshots/Product%20and%20Logistics.png)
 
-
+=====================
 
 ## Conclusion
 
