@@ -172,15 +172,20 @@ Olist-Ecommerce-Analytics-PowerBI
 
 # Olist Ecommerce Analytics Dashboard 
 =======
->>>>>>> 3863aba72a72c04772e52f018e665da25d70e025
+
 ## Dashboard Preview
 
+### Executive Overview Dashboard
 
-![Executive Dashboard](dashboard_screenshots/executive_dashboard.png)
+![Executive Overview](dashboard_screenshots/Executive%20Overview.png)
 
-![Customer Analytics](dashboard_screenshots/customer_analytics.png)
+### Customer & Quality Analytics
 
-![Product Logistics Analytics](dashboard_screenshots/product_logistics.png)
+![Customer Analytics](dashboard_screenshots/Customer%20and%20Quality%20Analytics.png)
+
+### Product & Logistics Analytics
+
+![Product Logistics](dashboard_screenshots/Product%20and%20Logistics.png)
 
 
 
