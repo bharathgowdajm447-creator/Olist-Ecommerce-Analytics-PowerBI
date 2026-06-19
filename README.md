@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Olist E-Commerce Analytics Dashboard
 
 ## Project Overview
@@ -196,6 +196,6 @@ This project demonstrates the ability to transform raw e-commerce data into a pr
 It highlights skills in data modeling, DAX, dashboard design, business analysis, and storytelling with data.
 
 
-===========================================
+
 
 
