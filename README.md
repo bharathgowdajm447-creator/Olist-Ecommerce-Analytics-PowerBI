@@ -196,8 +196,6 @@ This project demonstrates the ability to transform raw e-commerce data into a pr
 It highlights skills in data modeling, DAX, dashboard design, business analysis, and storytelling with data.
 
 
-===========================================================================================================================================
-=======
-### Product & Logistics Analytics
-![Product Logistics](dashboard_screenshots/product_logistics.png)
+===========================================
+
 
