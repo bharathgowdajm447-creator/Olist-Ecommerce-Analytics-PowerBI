@@ -175,9 +175,7 @@ Olist-Ecommerce-Analytics-PowerBI
 >>>>>>> 3863aba72a72c04772e52f018e665da25d70e025
 ## Dashboard Preview
 
-Add screenshots here:
 
-```markdown
 ![Executive Dashboard](dashboard_screenshots/executive_dashboard.png)
 
 ![Customer Analytics](dashboard_screenshots/customer_analytics.png)
