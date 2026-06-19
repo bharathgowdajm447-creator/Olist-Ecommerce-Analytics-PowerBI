@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olist E-Commerce Analytics Dashboard
 
 ## Project Overview
@@ -167,6 +168,11 @@ Olist-Ecommerce-Analytics-PowerBI
 
 ---
 
+=======
+
+# Olist Ecommerce Analytics Dashboard 
+=======
+>>>>>>> 3863aba72a72c04772e52f018e665da25d70e025
 ## Dashboard Preview
 
 Add screenshots here:
@@ -176,6 +182,7 @@ Add screenshots here:
 
 ![Customer Analytics](dashboard_screenshots/customer_analytics.png)
 
+<<<<<<< HEAD
 ![Product Logistics Analytics](dashboard_screenshots/product_logistics.png)
 ```
 
@@ -198,3 +205,8 @@ It highlights skills in data modeling, DAX, dashboard design, business analysis,
 
 
 ===========================================================================================================================================
+=======
+### Product & Logistics Analytics
+![Product Logistics](dashboard_screenshots/product_logistics.png)
+
+>>>>>>> 3863aba72a72c04772e52f018e665da25d70e025
